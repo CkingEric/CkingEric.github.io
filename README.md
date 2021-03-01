@@ -3,3 +3,5 @@ A minimal Jekyll theme inspired by <a href="https://github.com/edwardtufte/tufte
 
 ### Live Demo
 A live demo with detailed instructions can be found <a href="https://et-jekyll.netlify.com/et-jekyll-theme/">here</a>.
+
+###yes is test
